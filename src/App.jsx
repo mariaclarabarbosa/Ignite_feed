@@ -12,7 +12,7 @@ function App() {
       <div className={styles.wrapper}>
         <Sidebar />
         <main>
-          <Post author="Maria Clara" comment="Olá" />
+          <Post author="Maria Clara" content="Olá" />
         </main>
       </div>
     </div>
